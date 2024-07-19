@@ -1,0 +1,311 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-18 21:55+0200\n"
+"PO-Revision-Date: 2015-09-11 19:05+0100\n"
+"Last-Translator: Alessandro Vellutini <vellutini@hotmail.it>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_html_e;esc_html__;esc_html_x:1,2c;esc_attr__;esc_attr_e;_n_noop:1,2;_n_noop;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/extras/changelog.php:6
+msgid "v1.0.0"
+msgstr ""
+
+#: core/extras/changelog.php:7
+msgid "Release date : April, 18 - 2024"
+msgstr ""
+
+#: core/extras/changelog.php:13
+msgid "Initial version"
+msgstr ""
+
+#: core/templates/breadcrumb.php:29
+msgid "You are here : "
+msgstr ""
+
+#: core/templates/breadcrumb.php:33
+msgid "Home"
+msgstr ""
+
+#: core/templates/breadcrumb.php:55
+msgid "Search results for "
+msgstr ""
+
+#: core/templates/breadcrumb.php:59
+msgid "Page 404"
+msgstr ""
+
+#: core/templates/breadcrumb.php:63
+msgid "Attachment: "
+msgstr ""
+
+#: core/templates/mobile-menu.php:77
+msgid "Copyright "
+msgstr ""
+
+#: core/templates/mobile-menu.php:79
+msgid " Y"
+msgstr ""
+
+#: core/templates/mobile-menu.php:85
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: core/templates/mobile-menu.php:86
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: core/templates/mobile-menu.php:86
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: core/templates/news-ticker.php:17 functions.php:242
+msgid "HOT"
+msgstr ""
+
+#: core/templates/related-posts.php:72
+msgid "You may also like"
+msgstr ""
+
+#: functions.php:112
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:167
+msgid "Topbar"
+msgstr ""
+
+#: functions.php:170
+msgid "From this section you can manage the topbar"
+msgstr ""
+
+#: functions.php:185
+msgid "Topbar section"
+msgstr ""
+
+#: functions.php:186
+msgid "Do you want to enable the topbar?"
+msgstr ""
+
+#: functions.php:201
+msgid "Social links"
+msgstr ""
+
+#: functions.php:202
+msgid "Do you want to show the social links in the topbar?"
+msgstr ""
+
+#: functions.php:217
+msgid "News ticker"
+msgstr ""
+
+#: functions.php:218
+msgid "Do you want to enable the news ticker?"
+msgstr ""
+
+#: functions.php:233
+msgid "Show newsticker on whole website"
+msgstr ""
+
+#: functions.php:234
+msgid "Do you want to show the news ticker on whole website?"
+msgstr ""
+
+#: functions.php:249
+msgid "News ticker title"
+msgstr ""
+
+#: functions.php:250
+msgid "Insert the title for the news ticker"
+msgstr ""
+
+#: functions.php:265
+msgid "News ticker category"
+msgstr ""
+
+#: functions.php:266 functions.php:325
+msgid "Please select the category of the news ticker."
+msgstr ""
+
+#: functions.php:282
+msgid "News ticker order by"
+msgstr ""
+
+#: functions.php:283
+msgid "How you want to order the articles?."
+msgstr ""
+
+#: functions.php:285
+msgid "Post title"
+msgstr ""
+
+#: functions.php:286
+msgid "Randomly"
+msgstr ""
+
+#: functions.php:287
+msgid "Comment count"
+msgstr ""
+
+#: functions.php:288
+msgid "Post date"
+msgstr ""
+
+#: functions.php:304
+msgid "News ticker sort order"
+msgstr ""
+
+#: functions.php:305
+msgid "Select the order of the articles."
+msgstr ""
+
+#: functions.php:307
+msgid "Ascending"
+msgstr ""
+
+#: functions.php:308
+msgid "Descending"
+msgstr ""
+
+#: functions.php:324
+msgid "News ticker post limit"
+msgstr ""
+
+#: functions.php:333
+msgid "Slideshow"
+msgstr ""
+
+#: functions.php:334
+msgid "From this section you can manage the slideshow on homepage"
+msgstr ""
+
+#: functions.php:352
+msgid "Grid layout"
+msgstr ""
+
+#: functions.php:353
+msgid "Please select one of available layouts for the desktop devices."
+msgstr ""
+
+#: functions.php:355
+msgid "Disable"
+msgstr ""
+
+#: functions.php:356
+msgid "Layout 1"
+msgstr ""
+
+#: functions.php:357
+msgid "Layout 2"
+msgstr ""
+
+#: functions.php:358
+msgid "Layout 3"
+msgstr ""
+
+#: functions.php:359
+msgid "Layout 4"
+msgstr ""
+
+#: functions.php:360
+msgid "Layout 5"
+msgstr ""
+
+#: functions.php:361
+msgid "Layout 6"
+msgstr ""
+
+#: functions.php:378
+msgid "Category"
+msgstr ""
+
+#: functions.php:379
+msgid "Please select the category of the slideshow."
+msgstr ""
+
+#: functions.php:396
+msgid "Slideshow items"
+msgstr ""
+
+#: functions.php:397
+msgid "Please note that, since it is a post grid, each slide contains 3 articles."
+msgstr ""
+
+#: functions.php:399
+msgid "1 slide with 3 posts"
+msgstr ""
+
+#: functions.php:400
+msgid "2 slide with 6 posts"
+msgstr ""
+
+#: functions.php:401
+msgid "3 slide with 9 posts"
+msgstr ""
+
+#: functions.php:402
+msgid "4 slide with 12 posts"
+msgstr ""
+
+#: functions.php:403
+msgid "5 slide with 15 posts"
+msgstr ""
+
+#: functions.php:418
+msgid "Show Dots"
+msgstr ""
+
+#: functions.php:429
+msgid "Google Fonts"
+msgstr ""
+
+#: functions.php:432
+msgid "From this section you can select one of the 18 Google Fonts included with Haaski Minimal"
+msgstr ""
+
+#: functions.php:448
+msgid "Site font"
+msgstr ""
+
+#: functions.php:449
+msgid "Choose the font for your website."
+msgstr ""
+
+#: functions.php:465
+msgid "Related posts"
+msgstr ""
+
+#: functions.php:466
+msgid "Do you want to display the related posts at the end of each article?"
+msgstr ""
+
+#: functions.php:529
+msgid "Article"
+msgstr ""
+
+#: functions.php:630
+msgid "All categories"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:78 header.php:130
+msgid "Menu"
+msgstr ""
+
+#~ msgid "Category"
+#~ msgstr "Categorisa"
